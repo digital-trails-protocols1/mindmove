@@ -1,6 +1,9 @@
 {
   "summary": {
-    "icon": "/assets/home_mindtrails.png",
+    "icon": {
+      "url": "/assets/logo3.png",
+      "tint": false
+    },
     "title": "Mind in Motion",
     "description": "Calm the mind. Move the body"
   },
