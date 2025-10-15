@@ -53,7 +53,7 @@
           "type": "tiles",
           "actions": [
             {
-              "text": "MoreAboutACLRecovery",
+              "text": "More About ACL Recovery",
               "icon": {
                 "url": "/assets/025-medicine.png",
                 "tint": false
